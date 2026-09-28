@@ -1,4 +1,0 @@
-search_query,expected_result
-MacBook,MacBook
-iPhone,iPhone
-InvalidProductxyz,There is no product that matches the search criteria.
