@@ -1,0 +1,3 @@
+username,password,expected
+testuser1@example.com,testpass1,Fail
+invaliduser@example.com,wrongpass,Fail
